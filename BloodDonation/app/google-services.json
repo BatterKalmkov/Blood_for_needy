@@ -6,28 +6,28 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:44460319187:android:e1ff7b349cf29c9b",
+        "mobilesdk_app_id": "1:44460319187:android:e1ff7b349c9b",
         "android_client_info": {
           "package_name": "com.example.bobby.blooddonation"
         }
       },
       "oauth_client": [
         {
-          "client_id": "44460319187-5rdd93c9s5euil5p6rg1mikfmjs39q9k.apps.googleusercontent.com",
+          "client_id": "44460319187-5rdd93c9s5euil5p6rg1mi9q9k.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.bobby.blooddonation",
-            "certificate_hash": "DE9A8DA4AFBF5BB035B5D735B61FC3737FA13B11"
+            "certificate_hash": "DE9A8DA4AFBF5BB035B5D735B3737FA13B11"
           }
         },
         {
-          "client_id": "44460319187-86krh17eofbqhliu4g9uvbbciaibctrr.apps.googleusercontent.com",
+          "client_id": "44460319187-86krh17eofbqhlvbbciaibctrr.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAofMPz3fJ0Cmzc-p3QXKroeRNACWx9kxk"
+          "current_key": "AIzaSyAofMPz3fJ0Cmzc-p3QXRNACWx9kxk"
         }
       ],
       "services": {
