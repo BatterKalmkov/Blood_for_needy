@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\udr.mp3",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\raw\\udr.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tw__cacerts",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\raw\\tw__cacerts"
+    }
+]

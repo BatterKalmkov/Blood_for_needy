@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.bobby.blooddonation.SplashScreen1"
+    android:background="#ffffff">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="450dp"
+        android:id="@+id/imageView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:scaleType="fitCenter" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioButton"
+        android:checked="false"
+        android:layout_alignTop="@+id/radioButton2"
+        android:layout_toLeftOf="@+id/radioButton2"
+        android:layout_toStartOf="@+id/radioButton2" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioButton2"
+        android:checked="false"
+        android:layout_below="@+id/imageView"
+        android:layout_toLeftOf="@+id/radioButton3"
+        android:layout_toStartOf="@+id/radioButton3" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioButton3"
+        android:checked="false"
+        android:layout_below="@+id/imageView"
+        android:layout_centerHorizontal="true" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioButton4"
+        android:layout_alignTop="@+id/radioButton3"
+        android:layout_toRightOf="@+id/radioButton3"
+        android:layout_toEndOf="@+id/radioButton3"
+        android:checked="false" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioButton5"
+        android:checked="false"
+        android:layout_alignTop="@+id/radioButton4"
+        android:layout_toRightOf="@+id/radioButton4"
+        android:layout_toEndOf="@+id/radioButton4" />
+
+    <Button
+        android:layout_width="70dp"
+        android:layout_height="40dp"
+        android:text="Skip"
+        android:id="@+id/button"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:visibility="invisible"
+        android:theme="@style/MyButton"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"/> />
+
+</RelativeLayout>

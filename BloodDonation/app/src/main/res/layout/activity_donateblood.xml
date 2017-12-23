@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.bobby.blooddonation.donateblood"
+    android:background="#cee9fa">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:id="@+id/imageView24"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/donorregistration" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:layout_centerInParent="true"
+        android:background="#cee9fa"
+        android:layout_below="@+id/imageView24">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#cee9fa"
+            android:textAlignment="textStart"
+            android:transitionGroup="false">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Gender"
+                android:id="@+id/textView28"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_margin="10dp"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:visibility="visible" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Age"
+                android:id="@+id/textView29"
+                android:layout_below="@+id/textView28"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_margin="10dp"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:visibility="visible" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Weight"
+                android:id="@+id/textView30"
+                android:layout_below="@+id/textView29"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_margin="10dp"
+                android:textSize="18dp"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:visibility="visible" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="How often have you donated blood in the past?"
+                android:id="@+id/textView31"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:textSize="18dp"
+                android:layout_below="@+id/spinner15"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:visibility="visible"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="5dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Date of last blood donation-"
+                android:id="@+id/textView32"
+                android:textStyle="bold"
+                android:textSize="18dp"
+                android:textColor="#000000"
+                android:layout_below="@+id/spinner16"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:visibility="visible"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="5dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SMS Alert-"
+                android:id="@+id/textView33"
+                android:layout_below="@+id/spinner17"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:textStyle="bold"
+                android:textSize="18dp"
+                android:textColor="#000000"
+                android:visibility="visible"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="(You will receive an alert on your mobile when there is a request for your blood type within your city.)"
+                android:id="@+id/textView34"
+                android:layout_below="@+id/textView33"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:textSize="10dp"
+                android:textColor="#000000"
+                android:visibility="visible"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView35"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/textView34"
+                android:textSize="8dp"
+                android:textColor="#000000"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp" />
+
+            <Spinner
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:id="@+id/spinner13"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="false"
+                android:layout_alignBottom="@+id/textView28"
+                android:layout_marginRight="10dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignLeft="@+id/spinner18"
+                android:layout_alignStart="@+id/spinner18" />
+
+            <Spinner
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:id="@+id/spinner14"
+                android:layout_toEndOf="@+id/textView29"
+                android:layout_marginRight="10dp"
+                android:layout_alignLeft="@+id/spinner13"
+                android:layout_alignStart="@+id/spinner13"
+                android:layout_alignBottom="@+id/textView29" />
+
+            <Spinner
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:id="@+id/spinner15"
+                android:layout_toEndOf="@+id/textView30"
+                android:layout_marginRight="10dp"
+                android:layout_alignLeft="@+id/spinner14"
+                android:layout_alignStart="@+id/spinner14"
+                android:layout_alignBottom="@+id/textView30" />
+
+            <Spinner
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:id="@+id/spinner16"
+                android:layout_below="@+id/textView31"
+                android:layout_marginRight="10dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="10dp" />
+
+
+            <Spinner
+                android:layout_width="100dp"
+                android:layout_height="30dp"
+                android:id="@+id/spinner17"
+                android:layout_below="@+id/textView32"
+                android:layout_marginLeft="10dp"
+                android:layout_alignParentLeft="true" />
+
+            <Spinner
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/spinner18"
+                android:layout_below="@+id/textView32"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@+id/spinner17"
+                android:layout_alignBottom="@+id/spinner17" />
+
+            <Spinner
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/spinner19"
+                android:layout_below="@+id/textView32"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@+id/spinner18"
+                android:layout_alignBottom="@+id/spinner18" />
+
+            <Spinner
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:id="@+id/spinner20"
+                android:layout_toEndOf="@+id/textView33"
+                android:layout_marginRight="10dp"
+                android:layout_alignLeft="@+id/spinner13"
+                android:layout_alignStart="@+id/spinner13"
+                android:layout_alignBottom="@+id/textView33"
+                android:spinnerMode="dialog" />
+
+            <Button
+                android:id="@+id/Submit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Submit"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:textSize="18dp"
+                android:textColor="#019af9"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/textView35"
+                android:layout_marginTop="10dp" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

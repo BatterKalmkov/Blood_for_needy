@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:inputType="textMultiLine"
+                android:ems="10"
+                android:id="@+id/editText13"
+                android:layout_alignParentTop="false"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="false"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="false"
+                android:layout_below="@+id/textView13"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:text="Cancel"
+                android:id="@+id/button7"
+                android:background="#de1113"
+                android:layout_alignParentTop="false"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="51dp"
+                android:layout_marginStart="51dp"
+                android:layout_below="@+id/editText13"
+                android:layout_marginBottom="15dp" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:text="Send"
+                android:id="@+id/button9"
+                android:background="#de1113"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginRight="51dp"
+                android:layout_marginEnd="51dp"
+                android:layout_alignTop="@+id/button7"
+                android:layout_alignBottom="@+id/button7"
+                android:layout_below="@+id/editText13" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="We will broadcast below mentioned message on your behalf-"
+                android:id="@+id/textView13"
+                android:textSize="16dp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:textColor="#e71616"
+                android:textStyle="bold"
+                android:layout_margin="10dp"
+                android:textAlignment="center" />
+
+</RelativeLayout>

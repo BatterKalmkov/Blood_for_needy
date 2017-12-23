@@ -1,0 +1,470 @@
+[
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_playlist.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\fragment_playlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__state_button.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__state_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invite.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\activity_invite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__action_bar.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\layout\\tw__action_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_playselectplaylist.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\activity_playselectplaylist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_playvideo.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\activity_playvideo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addtoplaylist.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\addtoplaylist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__tweet.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\layout\\tw__tweet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__composer_view.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.3\\res\\layout\\tw__composer_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signin.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forgetpassword.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\activity_forgetpassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comments.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\activity_comments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_searchable.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\activity_searchable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_playlistview.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\activity_playlistview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_confirmation.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__activity_confirmation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_navigation_drawer.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\radio.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playlist.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\playlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__media_badge.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\layout\\tw__media_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\player.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\player.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__video_control.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\layout\\tw__video_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ondemand.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\ondemand.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feedback.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fragment_drawer.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\fragment_fragment_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\news.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\news.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playlist_item.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\playlist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bg_player_header.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\bg_player_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_contacts.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__activity_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_drawer_row.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\nav_drawer_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\audio_list_row.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\audio_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__player_activity.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\layout\\tw__player_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__app_card.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.3\\res\\layout\\tw__app_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\album_list_row.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\album_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_share_email.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\layout\\tw__activity_share_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_pin_code.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__activity_pin_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\news_list_row.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\news_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comments_list_row.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\comments_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_composer.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.3\\res\\layout\\tw__activity_composer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_oauth.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\layout\\tw__activity_oauth.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_friends.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\fragment_friends.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_playnews.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\activity_playnews.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_playlistdisplay.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\activity_playlistdisplay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splashscreen.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\music.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\music.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_failure.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__activity_failure.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__gallery_activity.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\layout\\tw__gallery_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_messages.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\fragment_messages.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rounded_corner.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__country_row.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__country_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_phone_number.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__activity_phone_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bg_player_footer.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\bg_player_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\radio_list_row.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\radio_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playlistviewaudio_list_row.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\layout\\playlistviewaudio_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__tweet_compact.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\layout\\tw__tweet_compact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    }
+]

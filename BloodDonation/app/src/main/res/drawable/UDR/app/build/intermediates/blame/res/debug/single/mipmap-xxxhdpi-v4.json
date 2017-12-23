@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_queue_music_black_48dp.png",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_queue_music_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_format_list_numbered_black_48dp.png",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_format_list_numbered_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_power_settings_new_black_48dp.png",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_power_settings_new_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_phone_black_48dp.png",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_phone_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_lock_outline_black_48dp.png",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_lock_outline_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_person_pin_black_48dp.png",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_person_pin_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_email_black_48dp.png",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_email_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_star_border_black_48dp.png",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_star_border_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_rss_feed_black_48dp.png",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_rss_feed_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_view_headline_black_48dp.png",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_view_headline_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_play_arrow_black_48dp.png",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_play_arrow_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_playlist_add_black_48dp.png",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_playlist_add_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_radio_black_48dp.png",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_radio_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_subscriptions_black_48dp.png",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_subscriptions_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_search_black_48dp.png",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_search_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_theaters_black_48dp.png",
+        "source": "C:\\Users\\Bobby\\AndroidStudioProjects\\UDR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_theaters_black_48dp.png"
+    }
+]

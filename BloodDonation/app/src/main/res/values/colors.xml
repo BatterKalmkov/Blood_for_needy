@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#de1113</color>
+    <color name="colorPrimaryDark">#de1113</color>
+    <color name="colorAccent">#00de35</color>
+    <color name="black">#de1113</color>
+    <color name="buttoncolor">#00de35</color>
+
+    <color name="colorPrimary2">#009688</color>
+    <color name="colorPrimaryDark2">#009688</color>
+    <color name="black2">#009688</color>
+
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="colorAccent2">#ff8080</color>
+
+    <color name="colorPrimary3">#f78222</color>
+    <color name="colorPrimaryDark3">#f78222</color>
+    <color name="black3">#f78222</color>
+    <color name="colorAccent3">#FFF7B47D</color>
+
+    <color name="colorPrimary4">#43c31c</color>
+    <color name="colorPrimaryDark4">#43c31c</color>
+    <color name="black4">#43c31c</color>
+    <color name="colorAccent4">#FFA8CF9C</color>
+
+    <color name="today">#4b82ff</color>
+    <color name="greyed_out">#999797</color>
+    <color name="events">#de1113</color>
+
+    <color name="colorPrimary5">#50651b</color>
+    <color name="colorPrimaryDark5">#50651b</color>
+    <color name="black5">#50651b</color>
+    <color name="colorAccent5">#50651b</color>
+
+    <color name="colorPrimary6">#FFAB772D</color>
+    <color name="colorPrimaryDark6">#FFAB772D</color>
+    <color name="black6">#FFAB772D</color>
+    <color name="colorAccent6">#FFBBBBBA</color>
+
+    <color name="colorPrimary7">#096786</color>
+    <color name="colorPrimaryDark7">#096786</color>
+    <color name="black7">#096786</color>
+    <color name="colorAccent7">#FFBBBBBA</color>
+
+    <color name="list_divider">#dedede</color>
+    <color name="bg_bubble_self">#E1E1E1</color>
+
+    <color name="colorPrimary8">#4b82ff</color>
+    <color name="colorPrimaryDark8">#4b82ff</color>
+    <color name="black8">#4b82ff</color>
+    <color name="colorAccent8">#FF0F2D71</color>
+
+    <color name="colorPrimary9">#759fc5</color>
+    <color name="colorPrimaryDark9">#759fc5</color>
+    <color name="black9">#759fc5</color>
+    <color name="colorAccent9">#FF056CC9</color>
+
+    <color name="colorPrimary10">#dcdc4a</color>
+    <color name="colorPrimaryDark10">#FFDCDC4A</color>
+    <color name="black10">#FFDCDC4A</color>
+    <color name="colorAccent10">#FFDCDC4A</color>
+
+    <color name="colorPrimary11">#0bb3a3</color>
+    <color name="colorPrimaryDark11">#0bb3a3</color>
+    <color name="black11">#0bb3a3</color>
+    <color name="colorAccent11">#0bb3a3</color>
+</resources>
