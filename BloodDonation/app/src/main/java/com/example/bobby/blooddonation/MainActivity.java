@@ -37,8 +37,8 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
 ImageButton ib1,ib2,ib3,ib4,ib5,ib6,ib7,ib8;
     private Toolbar mToolbar;
     private FragmentDrawer drawerFragment;
-    private static final String TWITTER_KEY = "sWnwTsWpzxPSW3VSFZJYrRsFZ";
-    private static final String TWITTER_SECRET = "4nZDNamT98rhR5YEo544YLP9ExULxxBteFDxkGi3weVrazByFy";
+    private static final String TWITTER_KEY = "YOUR API KEY";
+    private static final String TWITTER_SECRET = "YOUR API SECRET";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
