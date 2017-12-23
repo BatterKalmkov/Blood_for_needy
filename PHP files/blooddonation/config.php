@@ -4,7 +4,7 @@ define("DB_USERNAME", "sixthbmt_bldapch");
 define("DB_PASSWORD", "Sixth@123##");      
 define("DB_NAME", "sixthbmt_blood_app_cht");
  
-define("GOOGLE_API_KEY", "AIzaSyB9WmrTn8qAVPZPpWsoUNAp798lIfjmL6Y");
+define("GOOGLE_API_KEY", "YOUR API KEY");
  
 // push notification flags
 define('PUSH_FLAG_CHATROOM', 1);
